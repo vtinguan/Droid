@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Playlister!</string>
+
+    <string name="hello_world">Informe o seu nome!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_playlister">Playlister!</string>
+    <string name="surpreenda_meButton">OK </string>
+    <string name="saudacao">Olá </string>
+</resources>
